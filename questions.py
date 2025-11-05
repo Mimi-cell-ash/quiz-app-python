@@ -2,13 +2,13 @@ quiz_questions = [
     { 
         "question":"Which mathematiciam proved the incompletion theroems in 1931?",
         "options": ["A. Alan Turing", "B. Kurt Gödel", "C. John von Neumann", "D. Alonzo Church"],
-        "Answer": "B"
+        "answer": "B"
     },
 
     {
         "question":  "What is the chemical with the highest melting point? ",
         "options": ["A. Carbon (diamond)", "B. Tungsten", "C. Silicon Carbide", "D. Boron Nitride", "E. Osmium" ],
-        "Answer": "B"
+        "answer": "B"
     },
 
     {
