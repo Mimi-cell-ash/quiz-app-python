@@ -19,3 +19,13 @@ It tests users with multiple-choice questions and shows their score at the end.
    ```bash
    git clone https://github.com/Mimi-cell-ash/quiz-app-python.git
    cd quiz-app-python
+
+   ---
+
+## 🖼️ Demo
+
+Here’s what the quiz looks like when running in the terminal:
+
+![Demo Screenshot](demo.png)
+
+
